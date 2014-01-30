@@ -147,3 +147,6 @@ Módulo MongoDB par aKohana
 * http://br.php.net/manual/pt_BR/mongodb.command.php
 * http://www.php.net/manual/en/mongo.sqltomongo.php
 * http://www.mongodb.org/display/DOCS/SQL+to+Mongo+Mapping+Chart
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/madeinnordeste/kohana-sagui/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
